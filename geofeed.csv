@@ -1,19 +1,18 @@
-# Route48
 2a06:a005:8a0::/44,TW,TW-TPE,Tai Pei,103,
 2a06:a005:1c78::/48,JP,JP-13,Tokyo,,
 2a06:a005:1870::/48,AU,AU-NSW,Sydney,,
 2a12:dd47:8e70::/44,JP,JP-13,Tokyo,,
-
-# 2a12:3fc2:ab70::/44
 2a12:3fc2:ab72::/48,US,US-NY,New York City,10011
 2a12:3fc2:ab73::/48,LU,LU-L,,,
 2a12:3fc2:ab74::/48,DE,DE-RP,Frankfurt,,
 2a12:3fc2:ab77::/48,HK,,Hong Kong,,
 2a12:3fc2:ab78::/48,US,US-WA,Seattle,,
-
-# 2a12:dd47:f000::/40
 2a12:dd47:f000::/40,TW,TW-TPE,Tai Pei,103,
 2a12:dd47:f001::/48,TW,TW-TPE,Tai Pei,103,
 2a12:dd47:f002::/48,US,US-WA,Seattle,,
 2a12:dd47:f003::/48,RU,RU-MOS,Moscow,,
 2a12:dd47:f004::/48,US,US-WA,Seattle,,
+2a12:dd47:f005::/48,SG,SG-01,Singapore,139964,
+2a12:dd47:f006::/48,PH,PH-00,Metro Manila,,
+2a12:dd47:f007::/48,MY,MY-14,Kuala Lumpur,51000,
+2a12:dd47:f008::/48,MY,MY-14,Kuala Lumpur,51000,
