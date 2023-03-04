@@ -13,8 +13,8 @@
 2a0a:280:170d::/48,HK,,Hong Kong,,
 2a0a:0280:1720::/44,TW,TW-TPE,Tai Pei,,
 2a0a:0280:1730::/44,US,US-CA,san jose,,
-2a0a:0280:1740::/44,US-WA,Seattle,,
-2a0a:0280:1750::/44,SG-01,Singapore,,
+2a0a:0280:1740::/44,US,US-WA,Seattle,,
+2a0a:0280:1750::/44,SG,SG-01,Singapore,,
 2a0a:0280:1760::/44,JP,JP-13,Tokyo,,
-2a0a:0280:1770::/44,UK,GB,GB-LND,London
+2a0a:0280:1770::/44,GB,GB-LND,London,,
 2a0a:0280:1780::/44,DE,DE-RP,Frankfurt,,
