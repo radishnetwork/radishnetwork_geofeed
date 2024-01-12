@@ -64,6 +64,7 @@
 2a13:a5c6:7600::/40,GB,GB-LND,London,,
 2a13:a5c6:7800::/40,SA,SA-04,Riyadh,,
 2a13:a5c6:8100::/40,NG,NG-FC,Abuja,,
+2a13:a5c6:9100::/40,CN,CN-BJ,Beijing,,
 103.220.218.0/24,TW,TW-TPE,Tai Pei,,
 210.79.151.0/24,TW,TW-TPE,Tai Pei,,
 43.255.121.0/24,HK,,Hong Kong,,
